@@ -41,7 +41,8 @@ Whats Mod i added :
 
 ------------------------------------------------------------
 
-This Tool have an auto detect if i push an new version on my github and i the app you have an message Say new update is available
+This Tool have an auto detect if i push an new version on my github and when you launch the app you have an message Say new update is available, actually i don't know how or if it's possible to auto update the app like you press X and the app Download the new version and you got the news options instantly, if you know if it's possible dm me on discord @8vv or telegam @enabIe [i]
+
 if you press Option on your controller in the app i made an Music option you can mute etc the music, and you can show the Display Music too if you want to know the song name
 
 More Options Soon !
