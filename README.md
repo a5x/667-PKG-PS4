@@ -6,7 +6,7 @@ What is 667 PKG ?
 
 667 PKG is a new PKG made in early 2026 for PS4 Homebrew community, this PKG contains :
 
-Add Avatars
+Add Avatars (Need to use Lapy Avatar Changer App to apply my avatar)
 - +150 Animes avatars like makima, naruto etc
 - Flags Country
 - French Popular Rappers
