@@ -41,4 +41,7 @@ Whats Mod i added :
 
 ------------------------------------------------------------
 
+This Tool have an auto detect if i push an new version on my github and i the app you have an message Say new update is available
+if you press Option on your controller in the app i made an Music option you can mute etc the music, and you can show the Display Music too if you want to know the song name
+
 More Options Soon !
