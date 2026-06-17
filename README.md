@@ -23,7 +23,7 @@
 - 2006 Style Avatars
 - Presidents
 
-→ *Requires Lapy Avatar Changer to apply avatars.*
+→ *Requires Lapy Avatar Changer to apply avatars or use my own avatar setter in the app.*
 
 #### 2. Fast PKGs
 Quick installation of essential tools into `/data/pkg/`:
