@@ -1,32 +1,32 @@
 # 667 - PKG PS4
 
-**Le PKG ultime pour la scène Homebrew PS4 !** 🔥
+**The Ultimate All-in-One PKG for PS4 Homebrew Scene!** 🔥
 
-> **Ce PKG est encore en développement !**
+> **This PKG is still under development!**
 
-### Qu’est-ce que 667 PKG ?
+### What is 667 PKG?
 
-**667 PKG** est un outil tout-en-un créé début 2026 pour la communauté PS4 Homebrew. Il regroupe tout ce dont tu as besoin en un seul package.
+**667 PKG** is a new all-in-one package created in early 2026 for the PS4 Homebrew community.
 
 ---
 
-### ✨ Fonctionnalités
+### ✨ Features
 
-#### 1. Avatars Personnalisés
-- **+150 avatars Animés** (Makima, Naruto, etc.)
-- Drapeaux du monde
-- Rappeurs français populaires
-- Rappeurs US populaires
-- Icônes d’applications (App Store, etc.)
-- Icônes de jeux (Minecraft PS4, GTA V, GTA IV…)
+#### 1. Custom Avatars
+- **+150 Anime Avatars** (Makima, Naruto, etc.)
+- Country Flags
+- French Popular Rappers
+- USA Popular Rappers
+- App Icons (App Store, etc.)
+- Game Icons (Minecraft PS4, GTA V, GTA IV…)
 - Memes
-- Avatars style 2006
-- Présidents
+- 2006 Style Avatars
+- Presidents
 
-→ *Utilise Lapy Avatar Changer pour appliquer tes avatars.*
+→ *Requires Lapy Avatar Changer to apply avatars.*
 
 #### 2. Fast PKGs
-Installation rapide des meilleurs outils dans `/data/pkg/` :
+Quick installation of essential tools into `/data/pkg/`:
 - Apollo Save Tool
 - HomeBrew Store
 - PS4 XPLORER 2.0
@@ -35,33 +35,33 @@ Installation rapide des meilleurs outils dans `/data/pkg/` :
 - PS4 Cheats Manager
 - Remote Package Installer
 
-#### 3. Cheats & Mods (Plugins auto)
-Ajoute facilement des **mod menus** à tes jeux en sélectionnant simplement le **CUSA**.
+#### 3. Cheats & Mods (Auto Plugin)
+Easily add mod menus to your games by selecting the **CUSA**. The app automatically adds the plugin lines and places the mods folder.
 
-**Mods inclus :**
+**Included Mods:**
 - GTA Online LSO Explosive 1.53
 - Red Dead Redemption 2 1.32 Mod Menu
-- BO3 Zombies Mod Menu 667 (Version française + en dev)
+- BO3 Zombies Mod Menu 667 (Under development + French version)
 
 ---
 
-### 🎵 Musique & Options
-- Appuie sur **OPTIONS** dans l’application pour accéder aux réglages musique (mute, afficher le titre, etc.)
+### 🎵 Music & Options
+Press **OPTIONS** on your controller inside the app to access music settings (mute, show song title, etc.).
 
-### 🔄 Mise à jour automatique
-L’application détecte automatiquement les nouvelles versions sur GitHub et t’avertit au lancement.
+### 🔄 Auto Update Detection
+The app automatically detects new versions pushed to GitHub and shows a notification on launch.
 
-**Auto-update complet bientôt** (téléchargement + installation en 1 clic). Si tu sais comment implémenter ça proprement, n’hésite pas à me contacter !
-
----
-
-**Plus d’options arrivent très bientôt…**
+**Full auto-update feature coming soon** (download + install with one button). If you know how to implement it properly, feel free to contact me!
 
 ---
 
-**Contact :**
-- Discord : **@8vv**
-- Telegram : **@enabIe**
+**More features coming soon...**
+
+---
+
+**Contact:**
+- Discord: **@8vv**
+- Telegram: **@enabIe**
 
 ---
 
